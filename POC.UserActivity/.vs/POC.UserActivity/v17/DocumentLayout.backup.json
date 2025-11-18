@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|c:\\users\\mohammad.mustafa\\onedrive - ejada systems company\\documents\\useractivities\\poc.useractivity\\infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\infrastructure\\irepositories\\ifavoritesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\irepositories\\ifavoritesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\infrastructure\\irepositories\\iviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\irepositories\\iviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\infrastructure\\repositories\\viewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\viewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\infrastructure\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\infrastructure\\repositories\\favoritesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\favoritesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\infrastructure\\irepositories\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\irepositories\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\infrastructure\\irepositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E7629-B929-4FC7-B494-A84E3A7EB349}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\irepositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\iservices\\ifavoritesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\iservices\\ifavoritesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\services\\viewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\services\\viewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\services\\likesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\services\\likesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\services\\favoritesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\services\\favoritesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\servicemanager\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\servicemanager\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\servicemanager\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\servicemanager\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\iservices\\iviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\iservices\\iviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\iservices\\ilikesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\iservices\\ilikesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\application\\iservices\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E14B72-AACC-4CC9-9F20-BA68FA1C3118}|Application\\Application.csproj|solutionrelative:application\\iservices\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohammad.Mustafa\\AppData\\Local\\Temp\\readme1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohammad.Mustafa\\AppData\\Local\\Temp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IViewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\IRepositories\\IViewsRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IRepositories\\IViewsRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\IRepositories\\IViewsRepository.cs",
+              "RelativeToolTip": "Infrastructure\\IRepositories\\IViewsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:40:40.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFavoritesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\IRepositories\\IFavoritesRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IRepositories\\IFavoritesRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\IRepositories\\IFavoritesRepository.cs",
+              "RelativeToolTip": "Infrastructure\\IRepositories\\IFavoritesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:40:07.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\IRepositories\\ILikeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IRepositories\\ILikeRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\IRepositories\\ILikeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\IRepositories\\ILikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:39:07.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:38:55.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoritesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\Repositories\\FavoritesRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\FavoritesRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\Repositories\\FavoritesRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\FavoritesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:40:15.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\Repositories\\LikeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\LikeRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\Repositories\\LikeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\LikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:39:32.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\Repositories\\ViewsRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ViewsRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\Repositories\\ViewsRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ViewsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:40:51.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:53:22.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:53:12.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\IRepositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IRepositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Infrastructure\\IRepositories\\ICommentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\IRepositories\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:38:30.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFavoritesService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\IServices\\IFavoritesService.cs",
+              "RelativeDocumentMoniker": "Application\\IServices\\IFavoritesService.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\IServices\\IFavoritesService.cs",
+              "RelativeToolTip": "Application\\IServices\\IFavoritesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:54:33.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\ServiceManager\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceManager\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\ServiceManager\\ServiceManager.cs",
+              "RelativeToolTip": "Application\\ServiceManager\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:55:41.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\Services\\CommentsService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CommentsService.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\Services\\CommentsService.cs",
+              "RelativeToolTip": "Application\\Services\\CommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:54:43.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FavoritesService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\Services\\FavoritesService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\FavoritesService.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\Services\\FavoritesService.cs",
+              "RelativeToolTip": "Application\\Services\\FavoritesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:55:10.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LikesService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\Services\\LikesService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\LikesService.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\Services\\LikesService.cs",
+              "RelativeToolTip": "Application\\Services\\LikesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:54:51.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\Services\\ViewsService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ViewsService.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\Services\\ViewsService.cs",
+              "RelativeToolTip": "Application\\Services\\ViewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:55:02.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\ServiceManager\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceManager\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\ServiceManager\\IServiceManager.cs",
+              "RelativeToolTip": "Application\\ServiceManager\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:55:36.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IViewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\IServices\\IViewsService.cs",
+              "RelativeDocumentMoniker": "Application\\IServices\\IViewsService.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\IServices\\IViewsService.cs",
+              "RelativeToolTip": "Application\\IServices\\IViewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:54:26.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILikesService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\IServices\\ILikesService.cs",
+              "RelativeDocumentMoniker": "Application\\IServices\\ILikesService.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\IServices\\ILikesService.cs",
+              "RelativeToolTip": "Application\\IServices\\ILikesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:54:18.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\IServices\\ICommentsService.cs",
+              "RelativeDocumentMoniker": "Application\\IServices\\ICommentsService.cs",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\OneDrive - Ejada Systems Company\\Documents\\UserActivities\\POC.UserActivity\\Application\\IServices\\ICommentsService.cs",
+              "RelativeToolTip": "Application\\IServices\\ICommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:54:07.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "readme1.txt",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\AppData\\Local\\Temp\\readme1.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\readme1.txt",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\AppData\\Local\\Temp\\readme1.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\readme1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-18T09:02:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Mustafa\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
+              "ToolTip": "C:\\Users\\Mohammad.Mustafa\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-18T09:01:44.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
